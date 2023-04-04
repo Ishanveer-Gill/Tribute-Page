@@ -2,10 +2,14 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/14gilli/pen/LYjPNev](https://codepen.io/14gilli/pen/LYjPNev).
 
+<p>
+<img src="https://i.imgur.com/UFoq6Y1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
-Build a Tribute Page
 
-Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
+
+
+Build a Tribute Page:
 
 User Stories:
 
